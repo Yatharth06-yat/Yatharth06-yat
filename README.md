@@ -64,15 +64,39 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yatharth06-yat&theme=tokyo-night"/>
 </p>
 
-## Leetcode Graph
+# 🧠 LeetCode Dashboard
 
-# 🧠 LeetCode
+<div align="center">
 
-<p align="center">
+<a href="https://leetcode.com/u/Yatharth_gupta06/">
+<img width="420" src="https://leetcard.jacoblin.cool/Yatharth_gupta06?theme=dark&font=Nunito&ext=heatmap"/>
+</a>
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap"/>
+</div>
 
-</p>
+---
+
+## 📈 LeetCode Stats
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Yatharth_gupta06/">
+<img width="420" src="https://leetcode-status.vercel.app/api/card/Yatharth_gupta06?theme=gradient&gradient_start=%236366F1&gradient_end=%23A855F7&logo=true"/>
+</a>
+
+</div>
+
+---
+
+## 💛 LeetCode Profile
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Yatharth_gupta06/">
+<img src="https://img.shields.io/badge/LeetCode-Yatharth__gupta06-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
 
 ## 🏆 GitHub Trophies
 
