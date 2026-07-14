@@ -10,81 +10,120 @@ Competitive Programmer • DSA Learner • C++ Developer
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Student at **MITS Gwalior**
-- 💻 Solving **Data Structures & Algorithms** problems daily
-- 🌱 Currently learning **Advanced DSA** and **Competitive Programming**
-- 🚀 Interested in **AI, Full Stack Development, and IoT**
-
----
-
-## 🛠 Languages & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode" />
-</p>
+- 🎓 B.Tech CSE Student at MITS Gwalior
+- 💻 Passionate about Software Development and Problem Solving
+- 🌱 Currently learning AI, Machine Learning, System Design, and Cloud
+- 🚀 Building Full Stack, AI, and IoT Projects
+- ⚡ Solving Data Structures & Algorithms problems every day
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Tech Stack
 
-<p align="center">
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yatharth06-yat&show_icons=true&theme=tokyonight"/>
+### Frontend
+HTML • CSS • JavaScript • Three.js • GSAP
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatharth06-yat&layout=compact&theme=tokyonight"/>
+### Backend
+Node.js • Express.js
 
-</p>
+### Database
+MongoDB • Firebase
 
----
+### AI / ML
+Python • Machine Learning • Data Analysis
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Yatharth06-yat&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yatharth06-yat&theme=tokyo-night"/>
-
-</p>
+### IoT
+ESP32 • Arduino • Sensors • Firebase
 
 ---
 
-## 🏆 DSA Platforms
+# 🏆 Coding Profiles
 
-- 💛 LeetCode *(Add your profile link)*
-- 💙 Codeforces *(Add your profile link)*
-- 💚 CodeChef *(Add your profile link)*
-- 🧡 GeeksforGeeks *(Add your profile link)*
-
----
-
-## 🎯 Current Goals
-
-- ✅ Solve 500+ DSA Problems
-- ✅ Improve Problem Solving
-- ✅ Participate in Programming Contests
-- ✅ Learn Advanced Algorithms
+- 💛 LeetCode
+- 💙 Codeforces
+- 💚 CodeChef
+- 🧡 GeeksforGeeks
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-- GitHub: https://github.com/Yatharth06-yat
-- LinkedIn: *(Add your LinkedIn URL)*
-- Email: *(Add your email)*
+<!-- GitHub stats cards here -->
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+# 📈 Contribution Graph
+
+<!-- Contribution graph -->
+
+---
+
+# 🔥 GitHub Streak
+
+<!-- Streak card -->
+
+---
+
+# 🏆 GitHub Trophies
+
+<!-- Trophy card -->
+
+---
+
+# 💻 Featured Projects
+
+## 🌱 Smart Irrigation System
+IoT + ESP32 + Firebase + Dashboard
+
+## 🏆 HackIndia 2026 Website
+Premium frontend with Three.js and GSAP
+
+## 🤖 AI Dashboard
+Machine learning + analytics
+
+## 🌐 IEEE RAS Website
+Responsive modern UI
+
+---
+
+# 📚 DSA Progress
+
+- 🎯 Target: 1000+ Problems
+- ✅ Arrays
+- ✅ Strings
+- ✅ Linked List
+- ✅ Stack
+- ✅ Queue
+- 🔄 Trees
+- 🔄 Graphs
+- 🔄 Dynamic Programming
+
+---
+
+# 🌱 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Advanced DSA
+- System Design
+- Cloud Computing
+- DevOps
+
+---
+
+# 📫 Connect
+
+GitHub
+
+LinkedIn
+
+Portfolio
+
+Email
