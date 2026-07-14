@@ -1,73 +1,55 @@
+<h1 align="center">Hi 👋, I'm Yatharth Gupta</h1>
 
----
-
-# 👨‍💻 About Me
-
-```yaml
-Name: Yatharth Gupta
-
-Education:
-  B.Tech - Computer Science & Engineering
-  Madhav Institute of Technology & Science (MITS), Gwalior
-
-Current Focus:
-  - Artificial Intelligence
-  - Machine Learning
-  - Full Stack Development
-  - Three.js & GSAP
-  - Data Structures & Algorithms
-
-Interests:
-  - Web Development
-  - IoT
-  - UI/UX Design
-  - Open Source
-  - Hackathons
-```
-
----
-
-# 🚀 Tech Stack
+<h3 align="center">
+Competitive Programmer • DSA Learner • C++ Developer
+</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,nodejs,express,mongodb,firebase,git,github,vscode,figma&perline=7" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Structures+%26+Algorithms;Competitive+Programming;C%2B%2B+Developer;Always+Learning+🚀" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE Student at **MITS Gwalior**
+- 💻 Solving **Data Structures & Algorithms** problems daily
+- 🌱 Currently learning **Advanced DSA** and **Competitive Programming**
+- 🚀 Interested in **AI, Full Stack Development, and IoT**
+
+---
+
+## 🛠 Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Yatharth06-yat&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yatharth06-yat&show_icons=true&theme=tokyonight"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatharth06-yat&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatharth06-yat&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Yatharth06-yat&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Yatharth06-yat&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yatharth06-yat&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
@@ -77,51 +59,32 @@ Interests:
 
 ---
 
-# 💻 Featured Projects
+## 🏆 DSA Platforms
 
-| 🚀 Project | Description |
-|------------|-------------|
-| 🌱 Smart Irrigation System | IoT-based smart irrigation using ESP32, sensors, and Firebase |
-| 🏆 HackIndia 2026 Website | Futuristic hackathon website with immersive UI and animations |
-| 🤖 AI Dashboard | Interactive dashboard with charts and analytics |
-| 🌐 IEEE RAS Website | Modern society website with responsive design |
+- 💛 LeetCode *(Add your profile link)*
+- 💙 Codeforces *(Add your profile link)*
+- 💚 CodeChef *(Add your profile link)*
+- 🧡 GeeksforGeeks *(Add your profile link)*
 
 ---
 
-# 🌱 Currently Learning
+## 🎯 Current Goals
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🌐 Advanced Full Stack Development
-- 🎨 Three.js & GSAP Animations
-- 📚 Data Structures & Algorithms
+- ✅ Solve 500+ DSA Problems
+- ✅ Improve Problem Solving
+- ✅ Participate in Programming Contests
+- ✅ Learn Advanced Algorithms
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Yatharth06-yat
+- LinkedIn: *(Add your LinkedIn URL)*
+- Email: *(Add your email)*
+
+---
 
 <p align="center">
-
-<a href="https://github.com/Yatharth06-yat">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://YOUR-PORTFOLIO.com">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel"/>
-</a>
-
+⭐ Thanks for visiting my profile!
 </p>
-
----
-
-<div align="center">
-
-## ⚡ "Innovation begins where curiosity meets consistency."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0D0221,30:5B21B6,70:7C3AED,100:06B6D4"/>
-
-</div>
