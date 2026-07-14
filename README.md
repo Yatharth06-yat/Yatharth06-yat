@@ -1,41 +1,138 @@
-# Hi 👋, I'm Yatharth Gupta
+<div align="center">
 
-### 🚀 Full Stack Developer | AI & ML Enthusiast | IoT Developer | Competitive Programmer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D0221,30:5B21B6,70:7C3AED,100:06B6D4&text=Yatharth%20Gupta&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20IoT%20Enthusiast&descAlignY=58"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub!;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;IoT+Innovator;Competitive+Programmer;Always+Learning+🚀" />
 
-## 👨‍💻 About Me
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Yatharth06-yat&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
 
-- 🎓 IT(IOT) Student at MITS Gwalior
-- 🌱 Currently learning AI, Machine Learning and Advanced Web Development
-- 💻 Building Modern Websites with Three.js & GSAP
-- 🚀 Passionate about IoT and Smart Systems
-- ⚡ Solving DSA Problems in C++
+</div>
 
 ---
 
-## 🛠 Tech Stack
+# 👨‍💻 About Me
 
-HTML • CSS • JavaScript • C++ • Python • Node.js • Firebase • Three.js • Git • GitHub
+```yaml
+Name: Yatharth Gupta
+
+Education:
+  B.Tech - Computer Science & Engineering
+  Madhav Institute of Technology & Science (MITS), Gwalior
+
+Current Focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - Full Stack Development
+  - Three.js & GSAP
+  - Data Structures & Algorithms
+
+Interests:
+  - Web Development
+  - IoT
+  - UI/UX Design
+  - Open Source
+  - Hackathons
+```
 
 ---
 
-## 📫 Connect With Me
+# 🚀 Tech Stack
 
-GitHub:
-https://github.com/Yatharth06-yat
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,nodejs,express,mongodb,firebase,git,github,vscode,figma&perline=7" />
+</p>
 
-LinkedIn:
-[(Add Link)](https://www.linkedin.com/in/yatharth-gupta-525b40306/)
-
-Portfolio:
-(Add Link)
-
-Leetcode:
-https://leetcode.com/u/Yatharth_gupta06/
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yatharth06-yat&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yatharth06-yat&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Yatharth06-yat&theme=tokyonight)
 ---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Yatharth06-yat&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatharth06-yat&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Yatharth06-yat&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Yatharth06-yat&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yatharth06-yat&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 💻 Featured Projects
+
+| 🚀 Project | Description |
+|------------|-------------|
+| 🌱 Smart Irrigation System | IoT-based smart irrigation using ESP32, sensors, and Firebase |
+| 🏆 HackIndia 2026 Website | Futuristic hackathon website with immersive UI and animations |
+| 🤖 AI Dashboard | Interactive dashboard with charts and analytics |
+| 🌐 IEEE RAS Website | Modern society website with responsive design |
+
+---
+
+# 🌱 Currently Learning
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🌐 Advanced Full Stack Development
+- 🎨 Three.js & GSAP Animations
+- 📚 Data Structures & Algorithms
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Yatharth06-yat">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://YOUR-PORTFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⚡ "Innovation begins where curiosity meets consistency."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0D0221,30:5B21B6,70:7C3AED,100:06B6D4"/>
+
+</div>
