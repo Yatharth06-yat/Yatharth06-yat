@@ -64,6 +64,16 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yatharth06-yat&theme=tokyo-night"/>
 </p>
 
+## Leetcode Graph
+
+# 🧠 LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap"/>
+
+</p>
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
