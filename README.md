@@ -1,14 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D0221,30:5B21B6,70:7C3AED,100:06B6D4&text=Yatharth%20Gupta&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20IoT%20Enthusiast&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub!;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;IoT+Innovator;Competitive+Programmer;Always+Learning+🚀" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Yatharth06-yat&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</p>
-
-</div>
 
 ---
 
