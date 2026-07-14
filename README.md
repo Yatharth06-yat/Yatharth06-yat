@@ -1,109 +1,85 @@
-<h1 align="center">Hi 👋, I'm Yatharth Gupta</h1>
 
-<h3 align="center">
-Competitive Programmer • DSA Learner • C++ Developer
-</h3>
+# 👋 Hi, I'm Yatharth Gupta
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D0221,30:5B21B6,70:7C3AED,100:06B6D4&text=Yatharth%20Gupta&fontSize=56&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Competitive+Programmer;Full+Stack+Developer;AI+%26+ML+Enthusiast;IoT+Developer;Always+Learning+🚀"/>
+
+<img src="https://komarev.com/ghpvc/?username=Yatharth06-yat&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+- 🎓 B.Tech CSE Student at **MITS Gwalior**
+- 💻 Passionate about **Data Structures & Algorithms**
+- 🌐 Full Stack Developer
+- 🤖 Exploring AI & Machine Learning
+- 🌱 Building IoT Projects with ESP32
+- 🚀 Goal: Become a Software Engineer at a top tech company
+
+---
+
+# 🧠 DSA Roadmap
+
+- ✅ Arrays
+- ✅ Strings
+- ✅ Linked Lists
+- ✅ Stack & Queue
+- 🔄 Trees
+- 🔄 Graphs
+- 🔄 Dynamic Programming
+- 🔄 System Design
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Structures+%26+Algorithms;Competitive+Programming;C%2B%2B+Developer;Always+Learning+🚀" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,nodejs,express,mongodb,firebase,git,github,vscode,figma&perline=7"/>
 </p>
-
----
-
-# 👨‍💻 About Me
-
-- 🎓 B.Tech CSE Student at MITS Gwalior
-- 💻 Passionate about Software Development and Problem Solving
-- 🌱 Currently learning AI, Machine Learning, System Design, and Cloud
-- 🚀 Building Full Stack, AI, and IoT Projects
-- ⚡ Solving Data Structures & Algorithms problems every day
-
----
-
-# 🚀 Tech Stack
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-### Frontend
-HTML • CSS • JavaScript • Three.js • GSAP
-
-### Backend
-Node.js • Express.js
-
-### Database
-MongoDB • Firebase
-
-### AI / ML
-Python • Machine Learning • Data Analysis
-
-### IoT
-ESP32 • Arduino • Sensors • Firebase
-
----
-
-# 🏆 Coding Profiles
-
-- 💛 LeetCode
-- 💙 Codeforces
-- 💚 CodeChef
-- 🧡 GeeksforGeeks
 
 ---
 
 # 📊 GitHub Stats
 
-<!-- GitHub stats cards here -->
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yatharth06-yat&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatharth06-yat&layout=compact&theme=tokyonight"/>
+</p>
 
----
+## 🔥 GitHub Streak
 
-# 📈 Contribution Graph
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Yatharth06-yat&theme=tokyonight"/>
+</p>
 
-<!-- Contribution graph -->
+## 📈 Contribution Graph
 
----
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yatharth06-yat&theme=tokyo-night"/>
+</p>
 
-# 🔥 GitHub Streak
+## 🏆 GitHub Trophies
 
-<!-- Streak card -->
-
----
-
-# 🏆 GitHub Trophies
-
-<!-- Trophy card -->
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Yatharth06-yat&theme=tokyonight&row=2&column=4"/>
+</p>
 
 ---
 
 # 💻 Featured Projects
 
-## 🌱 Smart Irrigation System
-IoT + ESP32 + Firebase + Dashboard
-
-## 🏆 HackIndia 2026 Website
-Premium frontend with Three.js and GSAP
-
-## 🤖 AI Dashboard
-Machine learning + analytics
-
-## 🌐 IEEE RAS Website
-Responsive modern UI
-
----
-
-# 📚 DSA Progress
-
-- 🎯 Target: 1000+ Problems
-- ✅ Arrays
-- ✅ Strings
-- ✅ Linked List
-- ✅ Stack
-- ✅ Queue
-- 🔄 Trees
-- 🔄 Graphs
-- 🔄 Dynamic Programming
+| Project | Description |
+|---------|-------------|
+| 🌱 Smart Irrigation System | ESP32 + Firebase + Dashboard |
+| 🏆 HackIndia 2026 | Futuristic hackathon website |
+| 🤖 AI Dashboard | Analytics and ML dashboard |
+| 🌐 IEEE RAS Website | Responsive modern website |
 
 ---
 
@@ -112,18 +88,37 @@ Responsive modern UI
 - Artificial Intelligence
 - Machine Learning
 - Advanced DSA
-- System Design
+- Three.js
+- GSAP
 - Cloud Computing
-- DevOps
+
+---
+
+# 🎯 2026 Goals
+
+- Solve **1000+ DSA** problems
+- Build production-ready full-stack projects
+- Contribute to Open Source
+- Learn System Design
+- Crack top software engineering interviews
 
 ---
 
 # 📫 Connect
 
-GitHub
+- GitHub: https://github.com/Yatharth06-yat
+- LinkedIn: Add your profile
+- Portfolio: Add your portfolio
+- Email: Add your email
 
-LinkedIn
+---
 
-Portfolio
+<div align="center">
+
+### ⭐ Code • Learn • Build • Repeat ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:0D0221,30:5B21B6,70:7C3AED,100:06B6D4"/>
+
+</div>
 
 Email
