@@ -15,7 +15,7 @@
 
 # 🚀 About Me
 
-- 🎓 B.Tech CSE Student at **MITS Gwalior**
+- 🎓 B.Tech IT(IOT) Student at **MITS Gwalior**
 - 💻 Passionate about **Data Structures & Algorithms**
 - 🌐 Full Stack Developer
 - 🤖 Exploring AI & Machine Learning
