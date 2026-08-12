@@ -43,7 +43,7 @@ I enjoy working on **Full Stack Development**, **Artificial Intelligence**, **Ma
 ### 💻 Competitive Programming
 - Data Structures & Algorithms
 - Problem Solving
-- LeetCode Practice
+- LeetCode & CodeChef Practice
 - C++
 
 ---
@@ -136,6 +136,12 @@ Real-time patient health monitoring and emergency alert system using IoT.
 <a href="https://leetcode.com/u/Yatharth_gupta06/">
     <img src="https://img.shields.io/badge/LeetCode-Yatharth__gupta06-orange?style=for-the-badge&logo=leetcode"/>
 </a>
+<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+    <img src="https://img.shields.io/badge/CodeChef-YOUR_CODECHEF_USERNAME-%23964B00?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+    <img src="https://img.shields.io/badge/Rating-X%20★-yellow?style=for-the-badge&logo=codechef&logoColor=black"/>
+</a>
 </p>
 
 ## 🏆 LeetCode Profile
@@ -148,6 +154,13 @@ Real-time patient health monitoring and emergency alert system using IoT.
 ## 🔥 LeetCode Activity
 <p align="center">
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Yatharth_gupta06&theme=dark"/>
+</p>
+
+## 🌟 CodeChef Profile & Stats
+<p align="center">
+<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+    <img src="https://codechef-readme-stats.onrender.com/YOUR_CODECHEF_USERNAME?v=1" alt="CodeChef Stats"/>
+</a>
 </p>
 
 ## 📊 Coding Statistics
@@ -174,7 +187,7 @@ Real-time patient health monitoring and emergency alert system using IoT.
 # 🌐 Connect With Me
 - 💻 GitHub: https://github.com/Yatharth06-yat
 - 🔗 LinkedIn: https://www.linkedin.com/in/yatharth-gupta-525b40306/
-- 🌐 Portfolio:https://portfolio-2-snowy-nine.vercel.app
+- 🌐 Portfolio: https://portfolio-2-snowy-nine.vercel.app
 - 📧 Email: guptayatharth353@gmail.com
 
 ---
